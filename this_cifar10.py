@@ -69,4 +69,4 @@ def get_data_ttest(path):
 
 
 if __name__ == "__main__":
-    pass
+    UnZip("/root/autodl-pub/cifar-10/cifar-10-python.tar.gz", "/root/autodl-nas/data/cifar10")
